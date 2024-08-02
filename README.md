@@ -1,7 +1,7 @@
-# WebRTC Meet the Strangers
+# Vidtalk
  Omegle clone with direct calls possibility with vanilla JavaScript
 
- ### Author: Timothy Lam 
+ ### Author: Navdeep Singh
 \
 Link - http://localhost:3000
 
@@ -40,11 +40,3 @@ npm start
 ## WebRTC Architecture
 ![WebRTC Architecture](img/WebRTC-Architecture.png)
 
-## WebRTC Meet the Strangers
-![WebRTC Meet the Strangers](img/WebRTC-meet-the-strangers.jpg)
-\
-\
-\
-\
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
